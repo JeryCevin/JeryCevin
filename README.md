@@ -28,7 +28,8 @@
 
 Saya adalah seorang developer yang passionate di bidang **Web Programming** dan **Data Science**. Saya senang belajar teknologi baru dan membangun solusi yang bermanfaat.
 
-- 🌱 Currently learning advanced web technologies and data analysis
+- � Studying at Universitas Katolik Musi Charitas Palembang
+- �🌱 Currently learning advanced web technologies and data analysis
 - 💼 Expertise in Web Development & Data Science
 - 🎯 Goal: Building impactful digital solutions
 - 📫 How to reach me: [Your Email]
