@@ -3,8 +3,6 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:5B247A,100:E91E63&height=250&section=header&text=HELLO%20WORLD&fontSize=50&fontColor=ffffff&animation=twinkling)
 
-<img src="https://github.com/JeryCevin.png" width="120" style="border-radius: 50%; border: 4px solid white; margin-top: -60px;"/>
-
 ### WELCOME TO MY PROFILE
 
 [![Website](https://img.shields.io/badge/🌐_Website-https://jerycevin.github.io-00C853?style=for-the-badge)](https://jerycevin.github.io)
