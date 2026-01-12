@@ -1,18 +1,15 @@
-<!-- Header Banner with Content -->
+<!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5B247A,100:E91E63&height=300&section=header&text=HELLO%20WORLD&fontSize=50&fontColor=ffffff&desc=WELCOME%20TO%20MY%20PROFILE&descSize=16&descAlignY=60&animation=fadeIn" />
   
-  <div style="margin-top: -250px;">
-    <img src="https://github.com/JeryCevin.png" width="120" style="border-radius: 50%; border: 4px solid white;" />
-  </div>
-  
-  <div style="margin-top: -90px; padding-bottom: 20px;">
-    <h1 style="color: white; font-size: 48px; margin: 10px 0;">HELLO WORLD</h1>
-    <p style="color: white; font-size: 14px; margin: 5px 0;">WELCOME TO MY PROFILE</p>
-    <br>
-    <img src="https://img.shields.io/badge/🌐-https://jerycevin.github.io-00C853?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/📧-jerycevin@gmail.com-00C853?style=for-the-badge"/>
-  </div>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:5B247A,100:E91E63&height=250&section=header&text=HELLO%20WORLD&fontSize=50&fontColor=ffffff&animation=twinkling)
+
+<img src="https://github.com/JeryCevin.png" width="120" style="border-radius: 50%; border: 4px solid white; margin-top: -60px;"/>
+
+### WELCOME TO MY PROFILE
+
+[![Website](https://img.shields.io/badge/🌐_Website-https://jerycevin.github.io-00C853?style=for-the-badge)](https://jerycevin.github.io)
+[![Email](https://img.shields.io/badge/📧_Email-jerycevin@gmail.com-00C853?style=for-the-badge)](mailto:jerycevin@gmail.com)
+
 </div>
 
 ---
