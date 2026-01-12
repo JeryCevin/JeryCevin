@@ -69,15 +69,12 @@ Saya adalah seorang developer yang passionate di bidang **Web Programming** dan 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JeryCevin&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JeryCevin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JeryCevin&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=JeryCevin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeryCevin&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </div>
 
 ---
