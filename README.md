@@ -1,27 +1,28 @@
-<!-- Header Banner with Profile -->
+<!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:360870,50:D81B60,100:D81B60&height=300&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5B247A,50:D81B60,100:E91E63&height=250&section=header&fontColor=fff" />
 </div>
 
-<div align="center" style="margin-top: -280px; position: relative;">
-  <table style="width: 100%; border: none;">
+<!-- Profile Section -->
+<div align="center">
+  <table border="0" style="border: none;">
     <tr>
-      <td align="left" width="30%" style="padding-left: 50px; color: white;">
-        <img src="https://img.shields.io/badge/🌐-https://jerycevin.github.io-white?style=flat&labelColor=transparent&color=transparent"/>
+      <td align="center" width="30%">
+        <img src="https://img.shields.io/badge/🌐_https://jerycevin.github.io-00C853?style=for-the-badge&labelColor=00C853&color=00C853"/>
       </td>
       <td align="center" width="40%">
-        <img src="https://github.com/JeryCevin.png" width="120" style="border-radius: 50%; border: 5px solid white;" />
-        <h1 style="color: white; margin: 10px 0;">HELLO WORLD</h1>
-        <p style="color: white; margin: 0;">WELCOME TO MY PROFILE</p>
+        <img src="https://github.com/JeryCevin.png" width="140" style="border-radius: 50%; border: 4px solid white; margin-top: -100px;" /><br>
+        <h1 style="color: white; font-size: 48px; margin: 10px 0;">HELLO WORLD</h1>
+        <p style="color: #aaa; font-size: 14px;">WELCOME TO MY PROFILE</p>
       </td>
-      <td align="right" width="30%" style="padding-right: 50px; color: white;">
-        <img src="https://img.shields.io/badge/📧-jerycevin@gmail.com-white?style=flat&labelColor=transparent&color=transparent"/>
+      <td align="center" width="30%">
+        <img src="https://img.shields.io/badge/📧_jerycevin@gmail.com-00C853?style=for-the-badge&labelColor=00C853&color=00C853"/>
       </td>
     </tr>
   </table>
 </div>
 
-<br><br><br>
+<br><br>
 
 <h1 align="center">Jery Cevin</h1>
 
