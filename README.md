@@ -6,7 +6,6 @@
 ### WELCOME TO MY PROFILE
 
 [![Website](https://img.shields.io/badge/🌐_Website-https://jerycevin.github.io-00C853?style=for-the-badge)](https://jerycevin.github.io)
-[![Email](https://img.shields.io/badge/📧_Email-jerycevin@gmail.com-00C853?style=for-the-badge)](mailto:jerycevin@gmail.com)
 
 </div>
 
@@ -30,7 +29,7 @@ Saya adalah seorang developer yang passionate di bidang **Web Programming** dan 
 - �🌱 Currently learning advanced web technologies and data analysis
 - 💼 Expertise in Web Development & Data Science
 - 🎯 Goal: Building impactful digital solutions
-- 📫 How to reach me: [Your Email]
+- 📫 How to reach me: [jrycevin@gmail.com]
 
 ---
 
