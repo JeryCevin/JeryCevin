@@ -1,14 +1,23 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World!%20I'm%20Jery%20Cevin&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=HELLO%20WORLD&fontSize=70&fontColor=ffffff&desc=WELCOME%20TO%20MY%20PROFILE&descSize=20&descAlignY=65&animation=fadeIn" />
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>🌐 https://jerycevin.github.io</td>
+      <td>📧 jerycevin@gmail.com</td>
+    </tr>
+  </table>
 </div>
 
 <!-- Profile Picture -->
 <div align="center">
-  <img src="https://github.com/jerycevin.png" width="200" style="border-radius: 50%;" />
+  <img src="https://github.com/jerycevin.png" width="150" style="border-radius: 50%;" />
 </div>
 
-<h1 align="center">👋 Hi, I'm Jery Cevin</h1>
+<h1 align="center">Jery Cevin</h1>
 
 <h3 align="center">Web Developer & Data Science Enthusiast</h3>
 
@@ -62,7 +71,7 @@ Saya adalah seorang developer yang passionate di bidang **Web Programming** dan 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jerycevin&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JeryCevin&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
