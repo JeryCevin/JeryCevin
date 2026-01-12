@@ -1,28 +1,21 @@
 <!-- Header Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5B247A,50:D81B60,100:E91E63&height=250&section=header&fontColor=fff" />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5B247A,100:E91E63&height=200&section=header" />
+</p>
 
-<!-- Profile Section -->
-<div align="center">
-  <table border="0" style="border: none;">
-    <tr>
-      <td align="center" width="30%">
-        <img src="https://img.shields.io/badge/🌐_https://jerycevin.github.io-00C853?style=for-the-badge&labelColor=00C853&color=00C853"/>
-      </td>
-      <td align="center" width="40%">
-        <img src="https://github.com/JeryCevin.png" width="140" style="border-radius: 50%; border: 4px solid white; margin-top: -100px;" /><br>
-        <h1 style="color: white; font-size: 48px; margin: 10px 0;">HELLO WORLD</h1>
-        <p style="color: #aaa; font-size: 14px;">WELCOME TO MY PROFILE</p>
-      </td>
-      <td align="center" width="30%">
-        <img src="https://img.shields.io/badge/📧_jerycevin@gmail.com-00C853?style=for-the-badge&labelColor=00C853&color=00C853"/>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github.com/JeryCevin.png" width="120" style="border-radius: 50%; margin-top: -180px; border: 4px solid white;" />
+</p>
 
-<br><br>
+<h1 align="center" style="margin-top: -20px;">HELLO WORLD</h1>
+<p align="center">WELCOME TO MY PROFILE</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🌐-https://jerycevin.github.io-00C853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📧-jerycevin@gmail.com-00C853?style=for-the-badge"/>
+</p>
+
+---
 
 <h1 align="center">Jery Cevin</h1>
 
